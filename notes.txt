@@ -1,0 +1,9 @@
+1: login github vs code
+2: source control
+3: init repo
+4: commit message
+5: commit button
+6: publish branch button
+7: repo name
+8: publish repo
+9: check on github
